@@ -1,5 +1,3 @@
-import { div } from "framer-motion/client";
-import Image from "next/image";
 import Commitment from "./components/Commitment";
 import Categories from "./components/Categories";
 import DianoApart from "./components/DianoApart";

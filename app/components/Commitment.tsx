@@ -3,7 +3,6 @@ import { Playfair_Display, Mulish } from "next/font/google";
 import Image from "next/image";
 // import StarIcon from "../assets/star.png";
 import gem8 from "../assets/gem-neck.jpg";
-import Link from "next/link";
 
 const playFair = Playfair_Display({
   subsets: ["latin"],

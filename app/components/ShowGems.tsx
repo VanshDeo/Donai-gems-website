@@ -1,15 +1,9 @@
 import React from "react";
-import { Playfair_Display,Open_Sans } from "next/font/google";
+import { Open_Sans } from "next/font/google";
 import Image from "next/image";
 // import StarIcon from "../assets/star.png";
 import gem21 from "../assets/gem21.jpg";
 import gem22 from "../assets/gem22.jpg";
-
-
-const playFair = Playfair_Display({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-});
 
 const openSans = Open_Sans({
     subsets: ["latin"],

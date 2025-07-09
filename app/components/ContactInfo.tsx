@@ -6,16 +6,11 @@ import { motion } from "framer-motion";
 import ContactImage from "../assets/Frame 1075.jpg";
 import {FaInstagram } from "react-icons/fa";
 import { LuFacebook, LuLinkedin, LuTwitter} from "react-icons/lu";
-import { Playfair_Display, Inter } from "next/font/google";
+import { Playfair_Display } from "next/font/google";
 
 const playFair = Playfair_Display({
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
-});
-
-const inter = Inter({
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
 });
 
 const ContactInfo = () => {
