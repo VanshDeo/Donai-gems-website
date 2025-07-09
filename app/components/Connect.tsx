@@ -1,4 +1,5 @@
 import React from 'react'
+import { Open_Sans } from "next/font/google";
 // import StarIcon from "../assets/star.png";
 
 const openSans = Open_Sans({
